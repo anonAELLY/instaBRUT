@@ -43,14 +43,14 @@ fi
 
 banner() {
 
-printf "\e[1;92m     _                                   _             _  _           \e[0m\n"
-printf "\e[1;92m _  | |                _                | |           | || |          \e[0m\n"
-printf "\e[1;92m( \ | | ____    ___  _| |_  _____   ___ | |__   _____ | || |          \e[0m\n"
-printf "\e[1;92m ) )| ||  _ \  /___)(_   _)(____ | /___)|  _ \ | ___ || || |          \e[0m\n"
-printf "\e[1;77m(_/ | || | | ||___ |  | |_ / ___ ||___ || | | || ____|| || |  _____   \e[0m\n"
-printf "\e[1;77m    |_||_| |_|(___/    \__)\_____|(___/ |_| |_||_____) \_)\_)(_____)  \e[0m\n"
+printf "\e[1;92m     _                                                                \e[0m\n"
+printf "\e[1;92m    | |                _                                              \e[0m\n"
+printf "\e[1;92m    | | ____    ___  _| |_  _____                                     \e[0m\n"
+printf "\e[1;92m    | ||  _ \  /___)(_   _)(____ |                                    \e[0m\n"
+printf "\e[1;77m    | || | | ||___ |  | |_ / ___ |                                    \e[0m\n"
+printf "\e[1;77m    |_||_| |_|(___/    \__)\_____|                                    \e[0m\n"
 printf "\n"
-printf "\e[1;77m\e[45m  Instagram Brute Forcer v1.5.4 Author: thelinuxchoice (Github/IG)   \e[0m\n"
+printf "\e[1;77m\e[45m  Instagram Brute Forcer v1.5.4 Author: anonAELLY (Github/IG)   \e[0m\n"
 printf "\n"
 }
 

@@ -1,6 +1,6 @@
 
 
-![insta](https://user-images.githubusercontent.com/34893261/37858917-a6f23ae2-2eea-11e8-9f58-9a688390cfb0.png)
+![insta](https://te.legra.ph/file/b2f7ace851451b5e403c0.png)
 
 ### Features
 - Multi-thread (400 pass/min, 20 threads)
